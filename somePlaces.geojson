@@ -1,0 +1,56 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20130705T132928+0200", "endTime": "20130705T142858+0200", "place": "{ \"id\": 40524560, \"type\": \"unknown\", \"location\": { \"lat\": 52.377379985899999, \"lon\": 4.6315100365 } }", "lastUpdate": "20130705T142609Z", "date": "20130705" }, "geometry": { "type": "Point", "coordinates": [ 4.6315100365, 52.377379985899999 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20130819T123518+0200", "endTime": "20130819T123838+0200", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20130819T211051Z", "date": "20130819" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20130904T120127+0200", "endTime": "20130904T125332+0200", "place": "{ \"id\": 60311953, \"type\": \"unknown\", \"location\": { \"lat\": 52.377815968500002, \"lon\": 4.6314913632 } }", "lastUpdate": "20130904T164429Z", "date": "20130904" }, "geometry": { "type": "Point", "coordinates": [ 4.6314913632, 52.377815968500002 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20131024T120403+0200", "endTime": "20131024T124954+0200", "place": "{ \"id\": 40524560, \"type\": \"unknown\", \"location\": { \"lat\": 52.377379985899999, \"lon\": 4.6315100365 } }", "lastUpdate": "20131024T125545Z", "date": "20131024" }, "geometry": { "type": "Point", "coordinates": [ 4.6315100365, 52.377379985899999 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20131031T121400+0100", "endTime": "20131031T121619+0100", "place": "{ \"id\": 71968909, \"type\": \"unknown\", \"location\": { \"lat\": 52.378222994300003, \"lon\": 4.6314761298 } }", "lastUpdate": "20131031T134009Z", "date": "20131031" }, "geometry": { "type": "Point", "coordinates": [ 4.6314761298, 52.378222994300003 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20131111T121427+0100", "endTime": "20131111T121716+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20131111T132108Z", "date": "20131111" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20131121T120743+0100", "endTime": "20131121T130722+0100", "place": "{ \"id\": 77265675, \"name\": \"Hofje zonder Zorgen\", \"type\": \"foursquare\", \"foursquareId\": \"4c95d4bb72dd224b1f55a791\", \"location\": { \"lat\": 52.377419974327552, \"lon\": 4.631295204162598 } }", "lastUpdate": "20131125T204930Z", "date": "20131121" }, "geometry": { "type": "Point", "coordinates": [ 4.631295204162598, 52.377419974327552 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20131128T124430+0100", "endTime": "20131128T124722+0100", "place": "{ \"id\": 77265675, \"name\": \"Hofje zonder Zorgen\", \"type\": \"foursquare\", \"foursquareId\": \"4c95d4bb72dd224b1f55a791\", \"location\": { \"lat\": 52.377419974327552, \"lon\": 4.631295204162598 } }", "lastUpdate": "20131128T152604Z", "date": "20131128" }, "geometry": { "type": "Point", "coordinates": [ 4.631295204162598, 52.377419974327552 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20131202T122911+0100", "endTime": "20131202T123124+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20131202T160406Z", "date": "20131202" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20131209T121859+0100", "endTime": "20131209T122119+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20131209T133834Z", "date": "20131209" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20131218T121517+0100", "endTime": "20131218T121937+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20131218T131037Z", "date": "20131218" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140106T121515+0100", "endTime": "20140106T122009+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20140106T144832Z", "date": "20140106" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140110T123240+0100", "endTime": "20140110T123504+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20140110T135233Z", "date": "20140110" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140122T122532+0100", "endTime": "20140122T122822+0100", "place": "{ \"id\": 77265675, \"name\": \"Hofje zonder Zorgen\", \"type\": \"foursquare\", \"foursquareId\": \"4c95d4bb72dd224b1f55a791\", \"location\": { \"lat\": 52.377419974327552, \"lon\": 4.631295204162598 } }", "lastUpdate": "20140122T124751Z", "date": "20140122" }, "geometry": { "type": "Point", "coordinates": [ 4.631295204162598, 52.377419974327552 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140205T122245+0100", "endTime": "20140205T122538+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20140205T133911Z", "date": "20140205" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140210T122910+0100", "endTime": "20140210T123301+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20140210T144716Z", "date": "20140210" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140217T122326+0100", "endTime": "20140217T122546+0100", "place": "{ \"id\": 77265675, \"name\": \"Hofje zonder Zorgen\", \"type\": \"foursquare\", \"foursquareId\": \"4c95d4bb72dd224b1f55a791\", \"location\": { \"lat\": 52.377419974327552, \"lon\": 4.631295204162598 } }", "lastUpdate": "20140217T154535Z", "date": "20140217" }, "geometry": { "type": "Point", "coordinates": [ 4.631295204162598, 52.377419974327552 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140219T123320+0100", "endTime": "20140219T123600+0100", "place": "{ \"id\": 56144117, \"type\": \"unknown\", \"location\": { \"lat\": 52.3778291008, \"lon\": 4.632005226 } }", "lastUpdate": "20140219T135105Z", "date": "20140219" }, "geometry": { "type": "Point", "coordinates": [ 4.632005226, 52.3778291008 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140224T122256+0100", "endTime": "20140224T122500+0100", "place": "{ \"id\": 92559549, \"type\": \"unknown\", \"location\": { \"lat\": 52.377508452400001, \"lon\": 4.6318065064 } }", "lastUpdate": "20140225T173325Z", "date": "20140224" }, "geometry": { "type": "Point", "coordinates": [ 4.6318065064, 52.377508452400001 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140226T123047+0100", "endTime": "20140226T123337+0100", "place": "{ \"id\": 77265675, \"name\": \"Hofje zonder Zorgen\", \"type\": \"foursquare\", \"foursquareId\": \"4c95d4bb72dd224b1f55a791\", \"location\": { \"lat\": 52.377419974327552, \"lon\": 4.631295204162598 } }", "lastUpdate": "20140226T125259Z", "date": "20140226" }, "geometry": { "type": "Point", "coordinates": [ 4.631295204162598, 52.377419974327552 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140423T122032+0200", "endTime": "20140423T122447+0200", "place": "{ \"id\": 105285109, \"name\": \"Dagelijks Lekker\", \"type\": \"foursquare\", \"foursquareId\": \"4ffc0880e4b07354ddd70f6c\", \"location\": { \"lat\": 52.377828071761911, \"lon\": 4.632007515180989 } }", "lastUpdate": "20140423T153904Z", "date": "20140423" }, "geometry": { "type": "Point", "coordinates": [ 4.632007515180989, 52.377828071761911 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140428T121854+0200", "endTime": "20140428T122147+0200", "place": "{ \"id\": 105285109, \"name\": \"Dagelijks Lekker\", \"type\": \"foursquare\", \"foursquareId\": \"4ffc0880e4b07354ddd70f6c\", \"location\": { \"lat\": 52.377828071761911, \"lon\": 4.632007515180989 } }", "lastUpdate": "20140428T124023Z", "date": "20140428" }, "geometry": { "type": "Point", "coordinates": [ 4.632007515180989, 52.377828071761911 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140430T122632+0200", "endTime": "20140430T122847+0200", "place": "{ \"id\": 105285109, \"name\": \"Dagelijks Lekker\", \"type\": \"foursquare\", \"foursquareId\": \"4ffc0880e4b07354ddd70f6c\", \"location\": { \"lat\": 52.377828071761911, \"lon\": 4.632007515180989 } }", "lastUpdate": "20140430T150749Z", "date": "20140430" }, "geometry": { "type": "Point", "coordinates": [ 4.632007515180989, 52.377828071761911 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140501T132129+0200", "endTime": "20140501T134333+0200", "place": "{ \"id\": 105285109, \"name\": \"Dagelijks Lekker\", \"type\": \"foursquare\", \"foursquareId\": \"4ffc0880e4b07354ddd70f6c\", \"location\": { \"lat\": 52.377828071761911, \"lon\": 4.632007515180989 } }", "lastUpdate": "20140501T121040Z", "date": "20140501" }, "geometry": { "type": "Point", "coordinates": [ 4.632007515180989, 52.377828071761911 ] } }
+,
+{ "type": "Feature", "properties": { "type": "place", "startTime": "20140514T122704+0200", "endTime": "20140514T123252+0200", "place": "{ \"id\": 105285109, \"name\": \"Dagelijks Lekker\", \"type\": \"foursquare\", \"foursquareId\": \"4ffc0880e4b07354ddd70f6c\", \"location\": { \"lat\": 52.377828071761911, \"lon\": 4.632007515180989 } }", "lastUpdate": "20140514T131138Z", "date": "20140514" }, "geometry": { "type": "Point", "coordinates": [ 4.632007515180989, 52.377828071761911 ] } }
+
+]
+}
